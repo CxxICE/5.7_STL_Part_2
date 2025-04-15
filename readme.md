@@ -21,11 +21,11 @@
 
 ### Задание 1
 
-[Уникальный вектор](https://github.com/netology-code/cppl-homeworks/tree/main/08/01).
+[Уникальный вектор](01).
 
 ### Задание 2
 
-[Печать контейнера](https://github.com/netology-code/cppl-homeworks/tree/main/08/02).
+[Печать контейнера](02).
 
 ------
 
